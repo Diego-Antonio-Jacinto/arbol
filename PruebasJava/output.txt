@@ -1,0 +1,15 @@
+cadena --> 
+de --> 
+test --> token test
+, --> 
+1 --> numero
+vamos --> 
+a --> 
+ver --> 
+si --> 
+el --> 
+test --> token test
+funciona --> 
+, --> 
+test --> token test
+111 --> 
